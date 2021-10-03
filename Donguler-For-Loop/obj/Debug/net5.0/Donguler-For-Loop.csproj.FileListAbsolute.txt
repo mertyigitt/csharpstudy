@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.csproj.AssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.exe
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.deps.json
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.dll
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\bin\Debug\net5.0\ref\Donguler-For-Loop.dll
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.pdb
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.dll
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\ref\Donguler-For-Loop.dll
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.pdb
+C:\Users\meert\Documents\Sites\C#Study\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.genruntimeconfig.cache
