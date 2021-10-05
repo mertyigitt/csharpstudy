@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\bin\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.exe
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\bin\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.deps.json
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\bin\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\bin\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\bin\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.dll
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\bin\Debug\net5.0\ref\Diziler-Array-Sinifi-Metodlari.dll
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\bin\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.pdb
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.csproj.AssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.dll
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\ref\Diziler-Array-Sinifi-Metodlari.dll
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.pdb
+C:\Users\meert\Documents\Sites\C#Study\Diziler-Array-Sinifi-Metodlari\obj\Debug\net5.0\Diziler-Array-Sinifi-Metodlari.genruntimeconfig.cache

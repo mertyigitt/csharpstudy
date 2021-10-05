@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Diziler-Array-Sinifi-Metodlari/1.0.0": {
+        "runtime": {
+          "Diziler-Array-Sinifi-Metodlari.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diziler-Array-Sinifi-Metodlari/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
