@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.csproj.AssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Metot\bin\Debug\net5.0\Metot.exe
+C:\Users\meert\Documents\Sites\C#Study\Metot\bin\Debug\net5.0\Metot.deps.json
+C:\Users\meert\Documents\Sites\C#Study\Metot\bin\Debug\net5.0\Metot.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\Metot\bin\Debug\net5.0\Metot.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\Metot\bin\Debug\net5.0\Metot.dll
+C:\Users\meert\Documents\Sites\C#Study\Metot\bin\Debug\net5.0\ref\Metot.dll
+C:\Users\meert\Documents\Sites\C#Study\Metot\bin\Debug\net5.0\Metot.pdb
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.dll
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\ref\Metot.dll
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.pdb
+C:\Users\meert\Documents\Sites\C#Study\Metot\obj\Debug\net5.0\Metot.genruntimeconfig.cache
