@@ -35,7 +35,7 @@ namespace Recursive_Extension_Metotlar
             int sayi = 5;
             Console.WriteLine(sayi.IsEvenNumber());
 
-            Console.WriteLine(ifade.GetFirstCharacter());
+            Console.WriteLine(ifade.GetFirstCharacter()); -*
 
         }
     }
