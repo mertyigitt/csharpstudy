@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\bin\Debug\net5.0\Hazir-Metotlar-String.exe
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\bin\Debug\net5.0\Hazir-Metotlar-String.deps.json
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\bin\Debug\net5.0\Hazir-Metotlar-String.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\bin\Debug\net5.0\Hazir-Metotlar-String.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\bin\Debug\net5.0\Hazir-Metotlar-String.dll
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\bin\Debug\net5.0\ref\Hazir-Metotlar-String.dll
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\bin\Debug\net5.0\Hazir-Metotlar-String.pdb
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.csproj.AssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.dll
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\ref\Hazir-Metotlar-String.dll
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.pdb
+C:\Users\meert\Documents\Sites\C#Study\Hazir-Metotlar-String\obj\Debug\net5.0\Hazir-Metotlar-String.genruntimeconfig.cache
