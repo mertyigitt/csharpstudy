@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\bin\Debug\net5.0\Dictionary.exe
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\bin\Debug\net5.0\Dictionary.dll
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.dll
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+C:\Users\meert\Documents\Sites\C#Study\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache
