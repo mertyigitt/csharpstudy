@@ -1,0 +1,16 @@
+D:\Visual\Koleksiyon3\Koleksiyon3\bin\Debug\net5.0\Koleksiyon3.exe
+D:\Visual\Koleksiyon3\Koleksiyon3\bin\Debug\net5.0\Koleksiyon3.deps.json
+D:\Visual\Koleksiyon3\Koleksiyon3\bin\Debug\net5.0\Koleksiyon3.runtimeconfig.json
+D:\Visual\Koleksiyon3\Koleksiyon3\bin\Debug\net5.0\Koleksiyon3.runtimeconfig.dev.json
+D:\Visual\Koleksiyon3\Koleksiyon3\bin\Debug\net5.0\Koleksiyon3.dll
+D:\Visual\Koleksiyon3\Koleksiyon3\bin\Debug\net5.0\ref\Koleksiyon3.dll
+D:\Visual\Koleksiyon3\Koleksiyon3\bin\Debug\net5.0\Koleksiyon3.pdb
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.csproj.AssemblyReference.cache
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.AssemblyInfoInputs.cache
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.AssemblyInfo.cs
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.csproj.CoreCompileInputs.cache
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.dll
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\ref\Koleksiyon3.dll
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.pdb
+D:\Visual\Koleksiyon3\Koleksiyon3\obj\Debug\net5.0\Koleksiyon3.genruntimeconfig.cache

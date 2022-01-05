@@ -1,0 +1,16 @@
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/bin/Debug/net5.0/koleksiyonlar1
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/bin/Debug/net5.0/koleksiyonlar1.deps.json
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/bin/Debug/net5.0/koleksiyonlar1.runtimeconfig.json
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/bin/Debug/net5.0/koleksiyonlar1.runtimeconfig.dev.json
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/bin/Debug/net5.0/koleksiyonlar1.dll
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/bin/Debug/net5.0/ref/koleksiyonlar1.dll
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/bin/Debug/net5.0/koleksiyonlar1.pdb
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.csproj.AssemblyReference.cache
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.GeneratedMSBuildEditorConfig.editorconfig
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.AssemblyInfoInputs.cache
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.AssemblyInfo.cs
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.csproj.CoreCompileInputs.cache
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.dll
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/ref/koleksiyonlar1.dll
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.pdb
+/home/berkan/Masaüstü/Pratik/odev2/koleksiyonlar1/obj/Debug/net5.0/koleksiyonlar1.genruntimeconfig.cache
