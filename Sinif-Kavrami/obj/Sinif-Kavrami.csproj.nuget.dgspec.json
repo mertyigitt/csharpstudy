@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\meert\\Documents\\Sites\\csharpstudy\\Sinif-Kavrami\\Sinif-Kavrami.csproj": {}
+    "C:\\Users\\meert\\Documents\\Sites\\C#study\\Sinif-Kavrami\\Sinif-Kavrami.csproj": {}
   },
   "projects": {
-    "C:\\Users\\meert\\Documents\\Sites\\csharpstudy\\Sinif-Kavrami\\Sinif-Kavrami.csproj": {
+    "C:\\Users\\meert\\Documents\\Sites\\C#study\\Sinif-Kavrami\\Sinif-Kavrami.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\meert\\Documents\\Sites\\csharpstudy\\Sinif-Kavrami\\Sinif-Kavrami.csproj",
+        "projectUniqueName": "C:\\Users\\meert\\Documents\\Sites\\C#study\\Sinif-Kavrami\\Sinif-Kavrami.csproj",
         "projectName": "Sinif-Kavrami",
-        "projectPath": "C:\\Users\\meert\\Documents\\Sites\\csharpstudy\\Sinif-Kavrami\\Sinif-Kavrami.csproj",
+        "projectPath": "C:\\Users\\meert\\Documents\\Sites\\C#study\\Sinif-Kavrami\\Sinif-Kavrami.csproj",
         "packagesPath": "C:\\Users\\meert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\meert\\Documents\\Sites\\csharpstudy\\Sinif-Kavrami\\obj\\",
+        "outputPath": "C:\\Users\\meert\\Documents\\Sites\\C#study\\Sinif-Kavrami\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\meert\\AppData\\Roaming\\NuGet\\NuGet.Config"
