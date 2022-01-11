@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#study\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\meert\Documents\Sites\C#study\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\meert\Documents\Sites\C#study\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#study\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#study\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\meert\Documents\Sites\C#study\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\meert\Documents\Sites\C#study\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\meert\Documents\Sites\C#study\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
