@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\bin\Debug\net5.0\struck-kavrami.exe
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\bin\Debug\net5.0\struck-kavrami.deps.json
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\bin\Debug\net5.0\struck-kavrami.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\bin\Debug\net5.0\struck-kavrami.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\bin\Debug\net5.0\struck-kavrami.dll
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\bin\Debug\net5.0\ref\struck-kavrami.dll
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\bin\Debug\net5.0\struck-kavrami.pdb
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.csprojAssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.dll
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\ref\struck-kavrami.dll
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.pdb
+C:\Users\meert\Documents\Sites\C#Study\struck-kavrami\obj\Debug\net5.0\struck-kavrami.genruntimeconfig.cache
