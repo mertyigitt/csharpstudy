@@ -6,6 +6,7 @@ namespace csharp_enum
     {
         static void Main(string[] args)
         {
+            Console.WriteLine((int)Gunler.Pazartesi);
             Console.WriteLine(Gunler.Pazar);
             Console.WriteLine((int)Gunler.Cumartesi);
 
@@ -21,11 +22,11 @@ namespace csharp_enum
     }
     enum Gunler
     {
-        Pazartesi=1,
+        Pazartesi,
         Sali,
         Carsamba,
         Persembe,
-        Cuma=23,
+        Cuma,
         Cumartesi,
         Pazar,
     }
