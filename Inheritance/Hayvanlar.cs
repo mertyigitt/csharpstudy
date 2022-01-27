@@ -8,6 +8,11 @@ namespace Inheritance
         {
             Console.WriteLine("Hayvanlar adapte olabilir.");
         }
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki();
+            Console.WriteLine("Hayvanlar temasa tepki verir.");
+        }
     }
     public class Surungenler:Hayvanlar
     {
@@ -31,6 +36,7 @@ namespace Inheritance
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
         }
         public void Ucmak()
         {
