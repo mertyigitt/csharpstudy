@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.csprojAssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.exe
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.deps.json
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\bin\Debug\net5.0\ref\arayuzler-ornek.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.pdb
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\ref\arayuzler-ornek.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.pdb
+C:\Users\meert\Documents\Sites\C#Study\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.genruntimeconfig.cache

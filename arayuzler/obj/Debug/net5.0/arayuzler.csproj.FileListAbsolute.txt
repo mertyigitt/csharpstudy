@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\bin\Debug\net5.0\arayuzler.exe
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\bin\Debug\net5.0\arayuzler.deps.json
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\bin\Debug\net5.0\arayuzler.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\bin\Debug\net5.0\ref\arayuzler.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\bin\Debug\net5.0\arayuzler.pdb
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.csprojAssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\ref\arayuzler.dll
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.pdb
+C:\Users\meert\Documents\Sites\C#Study\arayuzler\obj\Debug\net5.0\arayuzler.genruntimeconfig.cache
