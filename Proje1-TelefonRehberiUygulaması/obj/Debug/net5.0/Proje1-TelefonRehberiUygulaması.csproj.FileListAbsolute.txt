@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\bin\Debug\net5.0\Proje1-TelefonRehberiUygulaması.exe
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\bin\Debug\net5.0\Proje1-TelefonRehberiUygulaması.deps.json
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\bin\Debug\net5.0\Proje1-TelefonRehberiUygulaması.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\bin\Debug\net5.0\Proje1-TelefonRehberiUygulaması.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\bin\Debug\net5.0\Proje1-TelefonRehberiUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\bin\Debug\net5.0\ref\Proje1-TelefonRehberiUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\bin\Debug\net5.0\Proje1-TelefonRehberiUygulaması.pdb
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.csprojAssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\ref\Proje1-TelefonRehberiUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.pdb
+C:\Users\meert\Documents\Sites\C#Study\Proje1-TelefonRehberiUygulaması\obj\Debug\net5.0\Proje1-TelefonRehberiUygulaması.genruntimeconfig.cache
