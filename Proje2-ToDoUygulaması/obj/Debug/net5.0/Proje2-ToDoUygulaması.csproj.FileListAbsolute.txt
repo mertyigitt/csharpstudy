@@ -1,0 +1,16 @@
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\bin\Debug\net5.0\Proje2-ToDoUygulaması.exe
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\bin\Debug\net5.0\Proje2-ToDoUygulaması.deps.json
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\bin\Debug\net5.0\Proje2-ToDoUygulaması.runtimeconfig.json
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\bin\Debug\net5.0\Proje2-ToDoUygulaması.runtimeconfig.dev.json
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\bin\Debug\net5.0\Proje2-ToDoUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\bin\Debug\net5.0\ref\Proje2-ToDoUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\bin\Debug\net5.0\Proje2-ToDoUygulaması.pdb
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.csprojAssemblyReference.cache
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.AssemblyInfoInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.AssemblyInfo.cs
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\ref\Proje2-ToDoUygulaması.dll
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.pdb
+C:\Users\meert\Documents\Sites\C#Study\Proje2-ToDoUygulaması\obj\Debug\net5.0\Proje2-ToDoUygulaması.genruntimeconfig.cache
